@@ -1,4 +1,4 @@
-const dataDoEvento = new Date("Feb 4, 2020, 19:00:00");
+const dataDoEvento = new Date("Feb 4, 2025, 19:00:00");
 const timeStampDoEvento = dataDoEvento.getTime();
 
 const contaAsHoras = setInterval(function() {
